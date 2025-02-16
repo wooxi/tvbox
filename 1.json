@@ -6,6 +6,11 @@
   "wallpaper": "https://tv.jinenyy.vip",
   "sites": [
     {
+      "name": "小雅",
+      "server": "http://192.168.100.4：5678",
+      "search": true
+    }, 
+    {
       "key": "drpy_js_豆瓣",
       "name": "🎈┃热门┃推荐",
       "type": 3,
